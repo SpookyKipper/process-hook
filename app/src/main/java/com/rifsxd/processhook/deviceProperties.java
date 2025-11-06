@@ -258,7 +258,10 @@ public final class deviceProperties {
             "com.levelinfinite.hotta.gp",
             "com.supercell.clashofclans",
             "com.mobilelegends.mi",
-            "com.vng.mlbbvn"
+            "com.vng.mlbbvn",
+            // "com.ytheekshana.deviceinfo",
+            "com.mi.health",
+            "com.xiaomi.wearable"
         };
         addToDeviceMap(mi14Apps, MI_14_PRO);
     }

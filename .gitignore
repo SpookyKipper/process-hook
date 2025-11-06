@@ -3,3 +3,8 @@ build
 install.sh
 build.sh
 setenv.sh
+
+
+rifsxd_keystore.jks
+my-release-key.jks
+build.gradle
